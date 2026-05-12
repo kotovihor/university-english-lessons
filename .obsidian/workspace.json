@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d25ad25cf881bd9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b8c00a98233ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd0c87ece90dd612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Lessons/13.05.26 - CREDIT SPEAKING TASK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.05.26 - CREDIT SPEAKING TASK"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39253576b409e87a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6efb43e079816d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc5f036c00cc742",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a6d04e415150ef7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f805f4dbfb81853e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1f568828e79da27",
+    "type": "split",
+    "children": [
+      {
+        "id": "3331ba1dfdbedf24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3e9aec7da4891c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Lessons/13.05.26 - CREDIT SPEAKING TASK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 13.05.26 - CREDIT SPEAKING TASK"
+            }
+          },
+          {
+            "id": "921b757c124c8559",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Lessons/13.05.26 - CREDIT SPEAKING TASK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13.05.26 - CREDIT SPEAKING TASK"
+            }
+          },
+          {
+            "id": "272fee6a9147fcde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b00be869d1f69410",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e75886b7f8285794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Lessons/13.05.26 - CREDIT SPEAKING TASK.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 13.05.26 - CREDIT SPEAKING TASK"
+            }
+          },
+          {
+            "id": "e9d18d54abdbe704",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dd0c87ece90dd612",
+  "lastOpenFiles": [
+    "01 Lessons/01 Lesssons.md",
+    "01 Lessons/13.05.26 - CREDIT SPEAKING TASK.md",
+    "99 Archive",
+    "06 Resources",
+    "05 Assignments",
+    "04 Practice",
+    "03 Vocabulary",
+    "02 Grammar",
+    "00 Inbox",
+    "01 Lessons"
+  ]
+}
